@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dd62c5d-f3dd-4a54-b796-71015bd8a7fb" name="Default Changelist" comment="" />
+    <list default="true" id="6dd62c5d-f3dd-4a54-b796-71015bd8a7fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-netty/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-netty/src/main/java/server/EchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-netty/src/main/java/server/EchoServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-one/netty-client-server01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01-netty/netty-client-server01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-one/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-netty/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-one/src/main/java/client/NettyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-netty/src/main/java/client/NettyClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-one/src/main/java/client/TimeClinetHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-netty/src/main/java/client/TimeClinetHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-one/src/main/java/server/NettyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-netty/src/main/java/server/NettyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-one/src/main/java/server/TimeServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-netty/src/main/java/server/TimeServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-three/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03-netty/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-three/src/main/java/clinet/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-netty/src/main/java/clinet/EchoClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-three/src/main/java/clinet/EchoClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-netty/src/main/java/clinet/EchoClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-three/src/main/java/server/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-netty/src/main/java/server/EchoServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-three/src/main/java/server/EchoServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-netty/src/main/java/server/EchoServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-three/target/classes/clinet/EchoClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-netty/target/classes/clinet/EchoClient$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-three/target/classes/clinet/EchoClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-netty/target/classes/clinet/EchoClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-three/target/classes/clinet/EchoClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-netty/target/classes/clinet/EchoClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-three/target/classes/server/EchoServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-netty/target/classes/server/EchoServer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-three/target/classes/server/EchoServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-netty/target/classes/server/EchoServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-three/target/classes/server/EchoServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-netty/target/classes/server/EchoServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-two/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-netty/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-two/src/main/java/clinet/NettyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-netty/src/main/java/clinet/NettyClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-two/src/main/java/clinet/TimeClinetHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-netty/src/main/java/clinet/TimeClinetHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-two/src/main/java/server/NettyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-netty/src/main/java/server/NettyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-two/src/main/java/server/TimeServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-netty/src/main/java/server/TimeServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-two/target/classes/clinet/NettyClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-two/target/classes/clinet/NettyClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-two/target/classes/clinet/TimeClinetHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-netty/target/classes/clinet/TimeClinetHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-two/target/classes/server/ChildChannelHeandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-two/target/classes/server/NettyServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-two/target/classes/server/TimeServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-netty/target/classes/server/TimeServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/netty-two/target/" />
     <ignored path="$PROJECT_DIR$/netty-one/target/" />
+    <ignored path="$PROJECT_DIR$/netty-three/target/" />
+    <ignored path="$PROJECT_DIR$/01-netty/target/" />
+    <ignored path="$PROJECT_DIR$/02-netty/target/" />
+    <ignored path="$PROJECT_DIR$/03-netty/target/" />
+    <ignored path="$PROJECT_DIR$/04-netty/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,68 +57,128 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/03-netty/src/main/java/server/EchoServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="957">
-              <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+            <state relative-caret-position="197">
+              <caret line="42" column="45" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty-two/src/main/java/server/NettyServer.java">
+        <entry file="file://$PROJECT_DIR$/04-netty/src/main/java/server/EchoServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="894">
-              <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+            <state relative-caret-position="391">
+              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1068#1559#0" expanded="true" />
+                <element signature="e#1558#1559#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty-two/src/main/java/server/TimeServerHandler.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/03-netty/src/main/java/clinet/EchoClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty-two/src/main/java/clinet/TimeClinetHandler.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/04-netty/src/main/java/client/EchoClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#957#1501#0" expanded="true" />
+                <element signature="e#1500#1501#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/netty-two/src/main/java/clinet/NettyClient.java">
+        <entry file="file://$PROJECT_DIR$/04-netty/src/main/java/client/EchoClientHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="150">
+              <caret line="18" column="56" lean-forward="true" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty-two/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/04-netty/src/main/java/server/EchoServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty-one/pom.xml">
+        <entry file="jar://$USER_HOME$/.m2/repository/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1.jar!/io/netty/channel/ChannelHandlerAdapter.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="25">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>exceptionCaught</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/netty-two/src/main/java/server/NettyServer.java" />
         <option value="$PROJECT_DIR$/netty-one/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-one/src/main/java/server/TimeServerHandler.java" />
+        <option value="$PROJECT_DIR$/netty-two/src/main/java/clinet/TimeClinetHandler.java" />
         <option value="$PROJECT_DIR$/netty-two/src/main/java/server/TimeServerHandler.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/netty-three/src/main/java/server/NettyServer.java" />
+        <option value="$PROJECT_DIR$/netty-three/src/main/java/server/EchoServerHandler.java" />
         <option value="$PROJECT_DIR$/netty-two/src/main/java/clinet/NettyClient.java" />
+        <option value="$PROJECT_DIR$/netty-one/src/main/java/client/NettyClient.java" />
+        <option value="$PROJECT_DIR$/netty-three/src/main/java/clinet/EchoClient.java" />
+        <option value="$PROJECT_DIR$/netty-three/src/main/java/clinet/EchoClientHandler.java" />
+        <option value="$PROJECT_DIR$/netty-three/src/main/java/server/EchoServer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/04-netty/src/main/java/server/EchoServerHandler.java" />
+        <option value="$PROJECT_DIR$/04-netty/src/main/java/client/EchoClient.java" />
+        <option value="$PROJECT_DIR$/03-netty/src/main/java/server/EchoServer.java" />
+        <option value="$PROJECT_DIR$/04-netty/src/main/java/server/EchoServer.java" />
+        <option value="$PROJECT_DIR$/04-netty/src/main/java/client/EchoClientHandler.java" />
       </list>
     </option>
   </component>
@@ -105,18 +206,18 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="557" />
-    <option name="y" value="76" />
-    <option name="width" value="1939" />
-    <option name="height" value="1023" />
+    <option name="x" value="712" />
+    <option name="y" value="106" />
+    <option name="width" value="1550" />
+    <option name="height" value="858" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,43 +228,25 @@
             <path>
               <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
               <item name="netty-student" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-one" type="462c0819:PsiDirectoryNode" />
+              <item name="03-netty" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
               <item name="netty-student" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-one" type="462c0819:PsiDirectoryNode" />
+              <item name="03-netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
               <item name="netty-student" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-one" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty-student" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-two" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty-student" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-two" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty-student" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-two" type="462c0819:PsiDirectoryNode" />
+              <item name="03-netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
               <item name="netty-student" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-two" type="462c0819:PsiDirectoryNode" />
+              <item name="03-netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -171,7 +254,7 @@
             <path>
               <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
               <item name="netty-student" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-two" type="462c0819:PsiDirectoryNode" />
+              <item name="03-netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -180,7 +263,7 @@
             <path>
               <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
               <item name="netty-student" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-two" type="462c0819:PsiDirectoryNode" />
+              <item name="03-netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -189,34 +272,106 @@
             <path>
               <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
               <item name="netty-student" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-two" type="462c0819:PsiDirectoryNode" />
+              <item name="04-netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-student" type="462c0819:PsiDirectoryNode" />
+              <item name="04-netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-student" type="462c0819:PsiDirectoryNode" />
+              <item name="04-netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-student" type="462c0819:PsiDirectoryNode" />
+              <item name="04-netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-student" type="462c0819:PsiDirectoryNode" />
+              <item name="04-netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-student" type="462c0819:PsiDirectoryNode" />
+              <item name="04-netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="NettyServer.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:5.0.0.Alpha1" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:5.0.0.Alpha1" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-5.0.0.Alpha1.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:5.0.0.Alpha1" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-5.0.0.Alpha1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:5.0.0.Alpha1" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-5.0.0.Alpha1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/netty-one/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/netty-three/src/main/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="client" />
       <recent name="server" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\netty-student\netty-three\src\main\java" />
+      <recent name="D:\Java\netty-student\netty-one\src\main\java" />
       <recent name="D:\Java\netty-student\netty-two\src\main\java\clinet" />
       <recent name="D:\Java\netty-student\netty-two\src\main\java\server" />
-      <recent name="D:\Java\netty-student\netty-one\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -231,10 +386,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NettyClient">
-    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clinet.NettyClient" />
-      <module name="netty-two" />
+  <component name="RunManager" selected="Application.EchoClient (1)">
+    <configuration name="EchoClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.EchoClient" />
+      <module name="04-netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clinet.EchoClient" />
+      <module name="netty-three" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="clinet.*" />
@@ -245,9 +413,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="server.NettyServer" />
-      <module name="netty-two" />
+    <configuration name="EchoServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.EchoServer" />
+      <module name="04-netty" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="server.*" />
@@ -258,10 +426,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.EchoServer" />
+      <module name="netty-three" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.NettyClient" />
+      <module name="netty-client-server01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NettyClient" />
-        <item itemvalue="Application.NettyServer" />
+        <item itemvalue="Application.EchoClient (1)" />
+        <item itemvalue="Application.EchoServer (1)" />
+        <item itemvalue="Application.EchoClient" />
+        <item itemvalue="Application.NettyClient (1)" />
+        <item itemvalue="Application.EchoServer" />
       </list>
     </recent_temporary>
   </component>
@@ -275,94 +472,360 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590412534427</updated>
-      <workItem from="1590412537289" duration="518000" />
+      <workItem from="1590412537289" duration="3125000" />
+      <workItem from="1590498431702" duration="717000" />
+      <workItem from="1590578509924" duration="5012000" />
+      <workItem from="1590669809849" duration="2281000" />
     </task>
+    <task id="LOCAL-00001" summary=":new: DelimiterBasedFrameDecoder粘包处理">
+      <created>1590593091881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590593091881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="518000" />
+    <option name="totallyTimeSpent" value="11135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19168901" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="MyBatis Log" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33002833" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" weight="0.3297587" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="MyBatis Log" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24196278" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33002833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="MyBatis Log" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":new: DelimiterBasedFrameDecoder粘包处理" />
+    <option name="LAST_COMMIT_MESSAGE" value=":new: DelimiterBasedFrameDecoder粘包处理" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/netty-one/pom.xml">
+    <entry file="file://$PROJECT_DIR$/01-netty/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/netty-two/pom.xml">
+    <entry file="file://$PROJECT_DIR$/02-netty/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-netty/src/main/java/server/NettyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-netty/src/main/java/server/TimeServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" selection-start-line="8" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-netty/src/main/java/clinet/TimeClinetHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-netty/src/main/java/server/NettyServer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-netty/src/main/java/server/TimeServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="100">
+            <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-three/src/main/java/clinet/TimeClinetHandler.java" />
+    <entry file="file://$PROJECT_DIR$/netty-three/src/main/java/server/NettyServer.java" />
+    <entry file="file://$PROJECT_DIR$/netty-three/src/main/java/clinet/NettyClient.java" />
+    <entry file="file://$PROJECT_DIR$/netty-three/src/main/java/server/TimeServerHandler.java" />
+    <entry file="file://$PROJECT_DIR$/03-netty/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-netty/src/main/java/clinet/NettyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1.jar!/io/netty/handler/codec/DelimiterBasedFrameDecoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-netty/src/main/java/client/NettyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#788#1034#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-netty/src/main/java/client/TimeClinetHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-netty/src/main/java/server/EchoServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-netty/src/main/java/clinet/EchoClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+        <state relative-caret-position="325">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/netty-two/src/main/java/server/TimeServerHandler.java">
+    <entry file="file://$PROJECT_DIR$/04-netty/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/netty-two/src/main/java/clinet/TimeClinetHandler.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty-two/src/main/java/server/NettyServer.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1.jar!/io/netty/channel/ChannelHandlerAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="894">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        <state relative-caret-position="25">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/netty-two/src/main/java/clinet/NettyClient.java">
+    <entry file="file://$PROJECT_DIR$/04-netty/src/main/java/server/EchoServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="375">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-netty/src/main/java/clinet/EchoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-netty/src/main/java/server/EchoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-netty/src/main/java/server/EchoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1068#1559#0" expanded="true" />
+            <element signature="e#1558#1559#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-netty/src/main/java/client/EchoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#957#1501#0" expanded="true" />
+            <element signature="e#1500#1501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-netty/src/main/java/client/EchoClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="56" lean-forward="true" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>04-netty</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">

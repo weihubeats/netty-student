@@ -19,7 +19,7 @@ import io.netty.handler.logging.LoggingHandler;
  * @author WH
  * @version 1.0
  * @date 2020/5/27 20:40
- * @Description TODO
+ * @Description 基于DelimiterBasedFrameDecoder自定义分隔符解码器
  */
 public class EchoServer {
 
@@ -50,7 +50,7 @@ public class EchoServer {
                             channel.pipeline().addLast(new EchoServerHandler());
                         }
                     });
-            //评定端口，同步等待成功
+            //绑定端口，同步等待成功
             ChannelFuture f = b.bind(8080).sync();
             //等待服务端监听端口关闭
             f.channel().closeFuture().sync();
