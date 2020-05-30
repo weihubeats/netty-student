@@ -44,12 +44,6 @@ public class EchoServer {
                             ch.pipeline().addLast(new LengthFieldPrepender(2));
                             ch.pipeline().addLast(new MsgPackEncoder());
                             ch.pipeline().addLast(new EchoServerHandler());
-                            /*ch.pipeline().addLast(new LengthFieldBasedFrameDecoder(65535,0,
-                                    2,0,2));
-                            ch.pipeline().addLast(new MsgPackDecoder());
-                            ch.pipeline().addLast(new LengthFieldPrepender(2));
-                            ch.pipeline().addLast(new MsgPackEncoder());
-                            ch.pipeline().addLast(new EchoServerHandler());*/
 
                         }
                     });

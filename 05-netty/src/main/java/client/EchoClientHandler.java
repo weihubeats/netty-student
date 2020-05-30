@@ -19,7 +19,6 @@ import java.util.List;
 @Slf4j
 public class EchoClientHandler extends ChannelHandlerAdapter {
 
-    private int counter;
 
     private final int sendNumber;
 

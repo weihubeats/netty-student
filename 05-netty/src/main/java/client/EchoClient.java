@@ -33,10 +33,13 @@ public class EchoClient {
 
                         @Override
                         public void initChannel(SocketChannel ch) throws Exception {
+                            // 在MessagePack编码器之前添加 LengthFieldBasedFrameDecoder
+                            // 它将在ByteBuf之前添加2个字节的消息长度字段
                            ch.pipeline().addLast("frameDecoder",new LengthFieldBasedFrameDecoder(65535,0,
                                     2,0,2));
 
                             ch.pipeline().addLast("msgpack decoder", new MsgPackDecoder());
+                            // 在MEssagePack解码器之前添加 LengthFieldPrepender，用于处理半包消息
                             ch.pipeline().addLast("frameEncoder",new LengthFieldPrepender(2));
                             ch.pipeline().addLast("msgpack encoder", new MsgPackEncoder());
                             ch.pipeline().addLast(new EchoClientHandler(10));
