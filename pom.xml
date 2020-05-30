@@ -13,6 +13,7 @@
         <module>02-netty</module>
         <module>03-netty</module>
         <module>04-netty</module>
+        <module>05-netty</module>
     </modules>
 
     <properties>
@@ -47,6 +48,18 @@
             <artifactId>slf4j-simple</artifactId>
             <version>1.7.25</version>
         </dependency>
+        <!--MessagePack编码-->
+        <dependency>
+            <groupId>org.msgpack</groupId>
+            <artifactId>msgpack</artifactId>
+            <version>0.6.12</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>20.0</version>
+        </dependency>
+
     </dependencies>
 
     <build>

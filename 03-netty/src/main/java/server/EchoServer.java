@@ -19,7 +19,7 @@ import io.netty.handler.logging.LoggingHandler;
  * @author WH
  * @version 1.0
  * @date 2020/5/27 20:40
- * @Description 基于DelimiterBasedFrameDecoder自定义分隔符解码器
+ * @Description 基于DelimiterBasedFrameDecoder 自定义分隔符解码器
  */
 public class EchoServer {
 
