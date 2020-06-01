@@ -14,6 +14,10 @@
         <module>03-netty</module>
         <module>04-netty</module>
         <module>05-netty</module>
+        <module>06-netty</module>
+        <module>07-netty</module>
+        <module>08-netty</module>
+        <module>test</module>
     </modules>
 
     <properties>
