@@ -17,29 +17,30 @@
         <module>06-netty</module>
         <module>07-netty</module>
         <module>08-netty</module>
-        <module>test</module>
+        <module>netty-websocketAndHttp</module>
     </modules>
 
     <properties>
         <java.version>1.8</java.version>
+<!--        <netty-all.version>4.1.63.Final</netty-all.version>-->
     </properties>
 
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.12</version>
+            <version>1.18.20</version>
         </dependency>
 
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.13</version>
+            <version>4.13.2</version>
         </dependency>
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
-            <version>5.3.2</version>
+            <version>5.7.13</version>
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
@@ -50,7 +51,7 @@
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-simple</artifactId>
-            <version>1.7.25</version>
+            <version>1.7.32</version>
         </dependency>
         <!--MessagePack编码-->
         <dependency>
@@ -61,7 +62,12 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>20.0</version>
+            <version>31.0.1-jre</version>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.62</version>
         </dependency>
 
     </dependencies>

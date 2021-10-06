@@ -2,14 +2,21 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="netty-client-server01" />
+        <module name="05-netty" />
+        <module name="08-netty" />
+        <module name="02-netty" />
+        <module name="03-netty" />
+        <module name="01-netty" />
+        <module name="netty-websocketAndHttp" />
+        <module name="07-netty" />
+        <module name="06-netty" />
         <module name="04-netty" />
-        <module name="netty-three" />
-        <module name="netty-two" />
+        <module name="netty-client-server01" />
       </profile>
     </annotationProcessing>
   </component>
